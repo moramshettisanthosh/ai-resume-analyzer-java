@@ -1,0 +1,37 @@
+John Doe
+Software Engineer | Full-Stack Developer
+Email: john.doe@example.com | Phone: (555) 123-4567 | LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Highly skilled and results-driven Software Engineer with over 5 years of experience designing, developing, and deploying scalable full-stack web applications. Proven expertise in Java, Spring Boot, React, and cloud infrastructure. Adept at leading agile teams and optimizing application performance by 40% through modern microservices architectures. Passionate about building robust APIs and intuitive user interfaces.
+
+TECHNICAL SKILLS
+Languages: Java, JavaScript (ES6+), TypeScript, Python, SQL, HTML5, CSS3/Tailwind
+Frameworks & Libraries: Spring Boot, React.js, Node.js, Express, Hibernate
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Tools & Cloud: Git, Docker, Kubernetes, AWS (EC2, S3, RDS), CI/CD (GitHub Actions), RESTful APIs, TDD
+
+PROFESSIONAL EXPERIENCE
+
+Senior Backend Engineer | TechNova Solutions | San Francisco, CA
+June 2021 – Present
+• Architected and developed a high-volume microservices ecosystem using Java Spring Boot, reducing API latency by 35% across 4 core services.
+• Orchestrated the migration of legacy monolithic architecture to Dockerized containers deployed on AWS ECS, ensuring 99.9% uptime.
+• Implemented robust JWT-based authentication flows and role-based access control (RBAC), securing sensitive financial data for over 100,000 active users.
+• Mentored 3 junior developers, instituting modern code review practices and test-driven development (TDD), increasing code coverage to 90%.
+
+Full-Stack Developer | InnovateWeb | Austin, TX
+March 2019 – May 2021
+• Built dynamic, responsive front-end dashboards using React.js and Redux, improving user retention by 25%.
+• Designed and optimized PostgreSQL database schemas, achieving a 50% faster query execution time for reporting features.
+• Integrated third-party payment gateways (Stripe) and external REST APIs to enable seamless e-commerce transactions.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Texas at Austin | Graduated: May 2019
+• GPA: 3.8/4.0 
+• Key Coursework: Data Structures, Algorithms, Cloud Computing, Database Management Systems
+
+PROJECTS
+• AI Resume Analyzer: Developed a full-stack application leveraging Spring Boot, React, and Google Gemini API to automatically grade and provide suggestions for user resumes.
+• Real-time Chat App: Built a WebSocket-based chat application using Node.js and React, capable of handling 500+ concurrent connections.
